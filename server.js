@@ -4,7 +4,7 @@ const PORT = 6000;
 
 app.use(express.json());
 
-app.get('/', (req, res) => {
+app.get('/home', (req, res) => {
 	return res.status(200).json({
 		success: true,
 		status: 'OK'
