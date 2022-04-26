@@ -1,0 +1,17 @@
+@QUESTION
+Who is the CEO of Alphabet
+@ANSWER
+3
+Maichel Dell
+Bill Gates
+Sundar Pichai
+Larry Page
+
+@QUESTION
+When was West Virginia University founded?
+@ANSWER
+3
+1967
+1945
+1867
+1921
