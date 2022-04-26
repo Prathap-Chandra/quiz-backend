@@ -1,0 +1,23 @@
+{
+  "name": "quiz-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prathap-Chandra/quiz-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prathap-Chandra/quiz-backend/issues"
+  },
+  "homepage": "https://github.com/Prathap-Chandra/quiz-backend#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
